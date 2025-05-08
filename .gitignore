@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node modules
+node_modules/
+
+# .env files (to prevent committing sensitive information)
+.env
+
+# Build outputs
+build/
+dist/
