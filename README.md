@@ -13,6 +13,8 @@ ShiftSync is a responsive web application designed to manage and track employee 
 
 ## Project Structure
 
+Figma UI Link : https://www.figma.com/design/HDNgmHiz7HaaLxjkLjvA5c/ShiftSync?node-id=0-1&t=UEqukdV2IHcGe7Xp-1
+
 The project is divided into two main folders:
 
 - `frontend`: Contains the client-side code developed using React, styled with Tailwind CSS.
