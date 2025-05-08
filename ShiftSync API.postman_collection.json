@@ -5,7 +5,7 @@
 		"description": "StartFragment\"API collection for Shift Tracking SystemEndFragment",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "44736721",
-		"_collection_link": "https://shankaran-5695263.postman.co/workspace/a4847afb-15c4-4538-8cf8-4a0658bc1b03/collection/44736721-d22c0e32-edfd-495c-8ffb-b04fec16ae7d?action=share&source=collection_link&creator=44736721"
+		"_collection_link": "https://shankaran-5695263.postman.co/workspace/Shankaran's-Workspace~a4847afb-15c4-4538-8cf8-4a0658bc1b03/collection/44736721-d22c0e32-edfd-495c-8ffb-b04fec16ae7d?action=share&source=collection_link&creator=44736721"
 	},
 	"item": [
 		{
@@ -39,7 +39,7 @@
 			"response": []
 		},
 		{
-			"name": "Get All Shifts",
+			"name": "Shift Post",
 			"request": {
 				"method": "GET",
 				"header": []
@@ -47,7 +47,7 @@
 			"response": []
 		},
 		{
-			"name": "Shift Post",
+			"name": "Get All Shifts",
 			"request": {
 				"method": "GET",
 				"header": []
